@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="em">
+<html>
+      <head>
+
+          <title> Website Part 2 </title>
+
+
+
+          <style>
+
+          .Headers {
+          text-align: center;
+
+          }
+          .Content {
+          text-align: center;
+
+          }
+
+
+
+
+          </style>
+     </head>
+
+    <body>
+
+    <h1 class="Headers"> Theories of Behaviour </h1>
+
+    <h2 class="Headers"> ABC Theory of Attitude and Behaviour </h2>
+    <p class="Content"> The ABC Theory states that behaviour and <br>
+     behavioral change is comprised of three things....
+    <br>
+    <br>
+
+      Parts that make up behaviour <br>
+     1. Affective (Emotion) <br>
+     2. Behavioral (Your tendencies) <br>
+     3. Cognitive (Attitude or what you think of it)
+
+
+</p>
+
+
+    <h2 class="Headers"> Theory of Planned Behaviour </h2>
+    <p> Theory of Planned Behaviour states that <br>
+    behaviour is based on three things
+    </p>
+    <ol> Parts that dictate behaviour
+    <li> Attitude </li>
+    <li> Subjective norms </li>
+    <li> How much you think you can control your behaviour </li>
+  </ol>
+
+    <h2 class="Headers"> Attitude-Behaviour Theory </h2>
+    <p> Attitude-Behaviour Theory states that <br>
+    behaviour is based on your attitude and some <br>
+    extra knowledge. An event in your past life <br>
+    causes you to form an attitude toward some <br>
+    behaviour, and with addition to some knowledge <br>
+    your own behaviour will be formed.
+    </p>
+
+    <h2 class="Headers"> Prototype Theory of Behaviour </h2>
+    <p> The Prototype Theory of Behaviour states that <br>
+    behaviour is based on many things such as.....
+    </p>
+    <ol> PASOOP
+    <li> Past Behaviour </li>
+    <li> Attitude </li>
+    <li> Subjective norms</li>
+    <li> Own Willingness </li>
+    <li> Own Intentions </li>
+    <li> Prototype or model we look up to </li>
+  </ol>
+
+
+
+
+
+    </body>
+</html>

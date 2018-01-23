@@ -1,0 +1,66 @@
+.flex-container1{
+ display: flex;
+
+}
+
+.flex-container2 {
+ display: grid;
+
+}
+
+.flex-red {
+background-color: red;
+width: 100px;
+height: 100px;
+position: relative;
+top: 50%;
+}
+
+.flex-orange {
+background-color: orange;
+width: 100px;
+height: 100px;
+
+
+}
+
+.flex-yellow {
+background-color: yellow;
+width: 100px;
+height: 100px;
+
+
+}
+
+.flex-green {
+background-color: green;
+width: 100px;
+height: 100px;
+
+
+}
+
+.flex-black {
+background-color: black;
+width: 100px;
+height: 100px;
+
+
+}
+
+
+.flex-blue {
+background-color: blue;
+width: 100px;
+height: 100px;
+
+
+}
+
+.flex-purple {
+background-color: purple;
+width: 100px;
+height: 100px;
+
+
+}

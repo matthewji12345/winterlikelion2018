@@ -1,0 +1,95 @@
+.flex-container1{
+ display: flex;
+
+}
+
+
+.flex-red {
+background-color: red;
+width: 600px;
+height: 100px;
+}
+
+.flex-orange {
+background-color: orange;
+width: 600px;
+height: 100px;
+
+}
+
+.flex-yellow {
+background-color: yellow;
+width: 300px;
+height: 100px;
+
+
+}
+
+.flex-green {
+background-color: green;
+width: 300px;
+height: 100px;
+
+
+}
+
+.flex-black {
+background-color: black;
+width: 300px;
+height: 100px;
+
+
+}
+
+
+.flex-blue {
+background-color: blue;
+width: 900px;
+height: 100px;
+
+
+}
+
+.flex-purple {
+background-color: purple;
+width: 900px;
+height: 100px;
+
+
+}
+
+.flex-coral {
+background-color: #FF7F50;
+width: 400px;
+height: 100px;
+
+
+}
+
+.flex-cornflowerBlue {
+background-color: #6495ED;
+width: 400px;
+height: 100px;
+
+
+}
+
+.flex-chartreuse {
+background-color: 	#7FFF00;
+width: 300px;
+height: 300px;
+position: relative;
+left: 900px;
+bottom: 400px;
+}
+
+
+
+
+.flex-cornsilk {
+background-color: 	#FFF8DC;
+width: 400px;
+height: 100px;
+
+
+}
